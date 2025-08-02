@@ -4,7 +4,7 @@ This project reconstructs a Market By Price (MBP-10) order book from a CSV-forma
 
 ---
 
-## 📊 Core Functionality
+## Core Functionality
 
 ### 1. `OrderBook::process()`
 
@@ -74,7 +74,7 @@ This project reconstructs a Market By Price (MBP-10) order book from a CSV-forma
 ## Usage
 
 ```bash
-./mbp input.csv output.csv
+./reconstruction_ghwangbo input.csv output.csv
 ```
 
 * Takes an input file of MBO events.
